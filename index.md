@@ -2,12 +2,10 @@
 
 ---
 
-### OH-Bot 
-
-[OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
+### [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
 <!-- <img src="images/OH-Bot.png"/> -->
 
-Purpose
+#### Purpose
 -------
 
 With the need for online learning becoming increasingly higher,
@@ -19,14 +17,14 @@ We created this bot with the goal of allowing students to effectively
 communicate with their instructors, with the option to be able to ask
 their peers for help while they wait.
 
-Overview
+#### Overview
 --------
 
-**OH-Bot** is a server managment automation bot. This means that tasks
+OH-Bot is a server managment automation bot. This means that tasks
 like notifying and moving students when they are ready to been seen are
-handled by **OH-Bot**
+handled by OH-Bot
 
-**OH-Bot** is a *self-hotsted* bot - meaning that you will need to host
+OH-Bot is a self-hotsted bot - meaning that you will need to host
 and maintain your own instance. See [Quick Start](#quickstart) to get
 started.
 
