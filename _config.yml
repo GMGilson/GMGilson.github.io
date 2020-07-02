@@ -3,8 +3,8 @@ logo: "/images/pusheen.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science Undergraduate at UC Davis 
   <br><br>
-  <br><br>
   <a href="https://www.linkedin.com/in/grantmgilson/">LinkedIn</a>
+  <br>>br>
   <a href="images/Industry Resume.pdf">Resume</a>
   
 theme: jekyll-theme-minimal
