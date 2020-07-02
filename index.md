@@ -5,10 +5,10 @@
 ### Category Name 1 
 
 [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/OH-Bot.png"/>
 
 ---
-[Missing CS Class](/pdf/sample_presentation.pdf)
+[Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
