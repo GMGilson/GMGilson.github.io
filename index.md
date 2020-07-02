@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### OH-Bot 
 
 [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
-<img src="images/OH-Bot.png"/>
+<!-- <img src="images/OH-Bot.png"/> -->
+
 Purpose
 -------
 
@@ -34,7 +35,9 @@ The standard OH-Session protocol that we follow:
 2. Students enter queue and enter waiting room 
 3. Instructors dequeue students 
 4. Instructors close queue when OH-Session is over
----
+   
+--------
+
 [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
