@@ -203,6 +203,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.1)
+    multi_json (1.14.1)
     multipart-post (2.1.1)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
@@ -212,9 +213,12 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
+    pygments.rb (1.2.1)
+      multi_json (>= 1.0.0)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    redcarpet (3.5.0)
     rouge (3.19.0)
     ruby-enum (0.8.0)
       i18n
@@ -243,6 +247,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-gist
+  jekyll-paginate
+  pygments.rb
+  redcarpet
 
 BUNDLED WITH
    2.1.4
