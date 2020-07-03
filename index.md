@@ -36,8 +36,9 @@ their peers for help while they wait.
 
 ## [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
 
-### TL;DR
-#### [Elevator Pitch](images/CERD_5-8-2020.pdf)
+### [CERD Pitch](images/CERD_5-8-2020.pdf)
+#### TL;DR
+
 As an undergraduate tutor and teaching assistant at UC Davis, I have found many students uncomfotable with basic system tools in the *Nix enviornment such as:
 * Package Managers
 * Build Systems
