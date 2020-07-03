@@ -45,8 +45,9 @@ As an undergraduate tutor and teaching assistant at UC Davis, I have found many 
 * Version Control
 * Command Line Interface
 
-Familiarity in these systems are not only important in future courses at UC Davis, but in the industry as a whole. Inspired by a course developed at [MIT](https://missing.csail.mit.edu/) to teach students these importatnt tools, this course is desigend to improve students' knowledge of straegies and skills for using the *Nix tools and debugging.
+Familiarity in these systems are not only important in future courses at UC Davis, but in the industry as a whole. Inspired by a course developed at [MIT](https://missing.csail.mit.edu/) to teach students these importatnt tools, this course is designed to improve students' knowledge of straegies and skills for using the *Nix tools and debugging.
 
+--- 
 
 ### Project List
 
