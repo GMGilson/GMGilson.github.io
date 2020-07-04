@@ -3,13 +3,13 @@
 ---
 
 ## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
-<!-- <img src="images/OH-Bot.png"/> -->
 
 ### Overview
 
-OH-Bot is a self-hosted server managment automation bot. This means that tasks
-like notifying and moving students when they are ready to been seen are
-handled by OH-Bot. Being self-hosted means that you will need to host
+OH-Bot is a self-hosted server managment automation bot. 
+Students who are ready to be see by the instructor will be automatically notified and moved into a voice session to streamline the process of office hours remotely.
+
+Being self-hosted means that you will need to host
 and maintain your own instance.
 
 The standard OH-Session protocol that we follow: 
@@ -20,7 +20,7 @@ The standard OH-Session protocol that we follow:
    
 ### Purpose
 
-With the need for online learning becoming increasingly higher in demand,
+With the need for online learning rising in demand,
 efficient means of reaching educators has become extremely important. We
 implemented a discord bot to help instructors automate the process of
 their Office Hours through Discord.
@@ -47,7 +47,6 @@ Familiarity in these systems are not only important in future courses at UC Davi
 --- 
 
 ## Past Projects
----
 ### [Path Finder](https://github.com/GMGilson/PathFinder) (Freshman-Summer 2019)
 
 #### TL;DR
