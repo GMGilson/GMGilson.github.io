@@ -8,7 +8,6 @@ author:
 gems:
   - jekyll-paginate
   - jekyll-gist
-  - pygments.rb
 
 paginate: 5
 paginate_path: "page:num"
@@ -38,7 +37,7 @@ google_analytics: UA-171579657-1 # your Google Analytics tracking ID here
 
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Permalinks
 permalink: pretty
