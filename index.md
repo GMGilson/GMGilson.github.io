@@ -7,13 +7,10 @@
 
 ### Overview
 
-OH-Bot is a server managment automation bot. This means that tasks
+OH-Bot is a self-hosted server managment automation bot. This means that tasks
 like notifying and moving students when they are ready to been seen are
-handled by OH-Bot
-
-OH-Bot is a self-hotsted bot - meaning that you will need to host
-and maintain your own instance. See [Quick Start](#quickstart) to get
-started.
+handled by OH-Bot. Being self-hosted means that you will need to host
+and maintain your own instance.
 
 The standard OH-Session protocol that we follow: 
 1. Instructors Opens OH-Queue 
@@ -49,9 +46,21 @@ Familiarity in these systems are not only important in future courses at UC Davi
 
 --- 
 
+## Past Projects
+---
+### [Path Finder](https://github.com/GMGilson/PathFinder) (Freshman-Summer 2019)
+
+#### TL;DR
+- Randomly Generate Maze
+- Solve Maze with BFS & DFS search algorithms
+
+<script id="asciicast-345220" src="https://asciinema.org/a/345220.js" async></script>
+
+---
 ### Project List
 
 - [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
 - [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
+- [Path Finder](https://github.com/GMGilson/PathFinder)
 
 ---

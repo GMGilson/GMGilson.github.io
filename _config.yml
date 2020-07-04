@@ -1,5 +1,24 @@
 title: Grant Matthew Gilson # your name (or website title) here
 logo: "/images/vest.png" # your photo (or logo) here
+
+author:
+  name: 'Grant Matthew Gilson'
+  url:  'github.com/GMGilson'
+
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+
+paginate: 5
+paginate_path: "page:num"
+
+version: 1.0
+
+github:
+  repo: https://github.com/GMGilson/GMGilson.github.io/
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <img src="images/vest.png">
   Pursuing Degree of Computer Science at the University of California Davis
@@ -11,3 +30,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/GMGilson/">Github</a>
   
 google_analytics: UA-171579657-1 # your Google Analytics tracking ID here
+
+# Dependencies
+markdown: redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink: pretty
+
