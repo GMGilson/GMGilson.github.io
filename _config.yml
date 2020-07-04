@@ -7,7 +7,6 @@ author:
 
 gems:
   - jekyll-paginate
-  - redcarpet
   - jekyll-gist
   - pygments.rb
 
@@ -38,7 +37,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 google_analytics: UA-171579657-1 # your Google Analytics tracking ID here
 
 # Dependencies
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 # Permalinks
