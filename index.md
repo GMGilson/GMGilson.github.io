@@ -62,7 +62,7 @@ Familiarity in these systems are not only important in future courses at UC Davi
 
 ---
 
-### [Git GDB Tutorial](https://github.com/GMGilson/Git-GDB-Tutorial)
+### [Git GDB Refernece](https://github.com/GMGilson/Git-GDB-Tutorial) (Freshman-Fall 2019)
 
 One of the main groups that I tutor are students in the lower-division CS-track at UC Davis. I found myself constatnly having to explain how to use Git and Gdb in my sessions. I wrote these docs to show some quick examples on how to use these tools with some advance topics that I find very cool!
 
@@ -73,5 +73,6 @@ One of the main groups that I tutor are students in the lower-division CS-track 
 - [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
 - [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
 - [Path Finder](https://github.com/GMGilson/PathFinder)
-- [Git GDB Tutorial](https://github.com/GMGilson/Git-GDB-Tutorial)
+- [Git GDB Reference](https://github.com/GMGilson/Git-GDB-Tutorial)
+  
 ---
