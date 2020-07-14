@@ -6,11 +6,12 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-## Current Projects
+# Current Projects
 
 ---
 
-## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot) (Spring 2020)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
 ### Overview
