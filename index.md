@@ -10,7 +10,8 @@
 
 ---
 
-## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot) (Maintaining)
+## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 
 ### Overview
 
