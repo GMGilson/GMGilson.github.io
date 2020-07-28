@@ -6,11 +6,22 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173965195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173965195-1');
+</script>
+
 # Current Projects
 
 ---
 
-## [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot) (Spring 2020)
+
+## <a href="https://github.com/ECS-OH-Bot/OH-Bot" target="_blank">OH-Bot</a> (Spring 2020)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
@@ -37,10 +48,9 @@ communicate with their instructors, with the option to be able to ask
 their peers for help while they wait.
   
 --------
+## <a href="https://gitlab.com/missing-cs-quarter-ucd/lecture-slides" target="_blank">Missing CS Class</a>  (In-Progress)
 
-## [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides) (In-Progress)
-
-### [CERD Pitch](images/CERD_5-8-2020.pdf)
+### <a href="images/CERD_5-8-2020.pdf" target="_blank">CERD Pitch</a>
 #### TL;DR
 
 As an undergraduate tutor and teaching assistant at UC Davis, I have found many students uncomfotable with basic system tools in the *Nix enviornment such as:
@@ -54,27 +64,29 @@ Familiarity in these systems are not only important in future courses at UC Davi
 --- 
 
 ## Past Projects
-### [Path Finder](https://github.com/GMGilson/PathFinder) (Freshman-Summer 2019)
+
+### <a href="https://github.com/GMGilson/PathFinder" target="_blank">Path Finder</a> (Freshman-Summer 2019)
 
 #### TL;DR
 - Randomly Generate Maze
-- Solve Maze with BFS & DFS search algorithms
+- Solve Maze with BFS & DFS graph algorithms
 
 <script id="asciicast-345220" src="https://asciinema.org/a/345220.js" async></script>
 
 ---
 
-### [Git GDB Refernece](https://github.com/GMGilson/Git-GDB-Tutorial) (Freshman-Fall 2019)
+### <a href="https://github.com/GMGilson/Git-GDB-Tutorial" target="_blank">Git GDB Refernece </a>(Freshman-Fall 2019)
 
-One of the main groups that I tutor are students in the lower-division CS-track at UC Davis. I found myself constatnly having to explain how to use Git and Gdb in my sessions. I wrote these docs to show some quick examples on how to use these tools with some advance topics that I find very cool!
+One of the main groups that I tutor are students in the lower-division CS-track at UC Davis. I found myself constantly having to explain how to use Git and Gdb in my sessions. I wrote these docs to show some quick examples on how to use these tools with some advance topics that I find very cool!
 
 ---
 
 ### Project List
 
-- [OH-Bot](https://github.com/ECS-OH-Bot/OH-Bot)
-- [Missing CS Class](https://gitlab.com/missing-cs-quarter-ucd/lecture-slides)
-- [Path Finder](https://github.com/GMGilson/PathFinder)
-- [Git GDB Reference](https://github.com/GMGilson/Git-GDB-Tutorial)
+
+- <a href="https://github.com/ECS-OH-Bot/OH-Bot" target="_blank">OH-Bot</a> 
+- <a href="https://gitlab.com/missing-cs-quarter-ucd/lecture-slides" target="_blank">Missing CS Class</a>
+- <a href="https://github.com/GMGilson/PathFinder" target="_blank">Path Finder</a>
+- <a href="https://github.com/GMGilson/Git-GDB-Tutorial" target="_blank">Git GDB Reference</a>
   
 ---

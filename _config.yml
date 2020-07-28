@@ -5,7 +5,7 @@ author:
   name: 'Grant Gilson'
   url:  'github.com/GMGilson'
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
@@ -33,7 +33,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
   
-google_analytics: UA-171579657-1 # your Google Analytics tracking ID here
+google_analytics: UA-173965195-1 # your Google Analytics tracking ID here
 
 # Dependencies
 markdown: kramdown
